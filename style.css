@@ -1,0 +1,50 @@
+#main{ 
+    background-color: rgb(226, 222, 222);
+    max-height: 100%;
+    max-width: 100%;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    padding: 20px 30px 30px 10px;
+    text-align: center;
+    padding: 5px;
+    border-radius:10px;
+    line-height: 1.5em;
+    color: rgb(7, 7, 7);
+}
+
+#title{
+    text-align: center;
+}
+  title ,p {
+      text-align: center;
+  }
+  #img-div {
+      
+      background-color: linen;
+      border-radius: 10px;
+      
+  }
+  #img-caption{
+      font-size: x-large;
+      line-height: inherit;
+      color:rgb(7, 7, 7);
+      padding-bottom: 5px;
+  }
+
+  #image{
+      max-width: 50%;
+      height: 90%;
+      padding-top: 20px;
+      border-radius: 10px;
+      text-align: center;
+      align-items: center;
+      
+  }
+  #tribute-info{
+      padding-left: 30%;
+      padding-right: 30%;
+      text-align: left;
+  }
+  li{
+      
+      padding-bottom: 30px;
+  }
